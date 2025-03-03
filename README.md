@@ -3,13 +3,13 @@ A collection of image processing exercises completed during my quantitative xray
 
 ## 📌 Topics Covered:  
 
-✔️ Basic image data manipulation
-✔️ Xray interaction data analysis
-✔️ Xray image based material decomposition 
-✔️ Xray projection based material decomposition
-✔️ Propagation based phase retrieval
-✔️ Speckle based imaging analysis with UMPA
-✔️ Wave propagation and coherence
+✔️ Basic image data manipulation  
+✔️ Xray interaction data analysis  
+✔️ Xray image based material decomposition  
+✔️ Xray projection based material decomposition  
+✔️ Propagation based phase retrieval  
+✔️ Speckle based imaging analysis with UMPA  
+✔️ Wave propagation and coherence  
 
 ## 🚀 Getting Started
 1. Clone this repository:

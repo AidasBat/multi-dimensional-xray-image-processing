@@ -1,0 +1,6 @@
+from pylab import *
+from scipy import interpolate
+import numpy as np
+import matplotlib.pyplot as plt
+import scipy
+from scipy.integrate import simps
